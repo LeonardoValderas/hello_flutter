@@ -1,0 +1,1 @@
+const BASE_API = 'https://653551b7c620ba9358ec6214.mockapi.io/users/';
